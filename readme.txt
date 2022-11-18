@@ -5,7 +5,6 @@ Updated November 18,2022
 
 
 このアプリケーションを使うには、Pythonなどをインストールする必要があります。
-「install_libraryapps」というシェルスクリプトがありますので、これを端末で起動させれば、必要なソフトウェアやライブラリをインストールします。
 
 $ sudo apt install open-jtalk open-jtalk-mecab-naist-jdic mecab
 $ sudo pip install mecab-python3
